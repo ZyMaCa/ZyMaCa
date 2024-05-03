@@ -1,5 +1,5 @@
 I am Zyra Mae C. Calagui, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. 
-My journey in tech has started when I took the BS Information Technology program.
+My journey in tech has started when I took the BSEMC D.A-Tech program.
 
 Education:
 BSEMC with Specializaion in Digital Animation Technology
